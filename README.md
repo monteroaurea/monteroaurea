@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aurea94
 - 👀 I’m interested in learning about softwares development
-- 🌱 I’m currently learning phyton and data science 
-- 💞️ I’m looking to collaborate on data analysis 
+- 🌱 I’m currently studying computer science
+- 💞️ I’m looking to my first job on Tech
 - 📫 How to reach me monteroaurea@gmail.com
 
 <!---
