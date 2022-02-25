@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aurea94
+- 👋 Hi, I’m Aurea
 - 👀 I’m learning about softwares development
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to my first job on Tech
