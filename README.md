@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aurea94
-- 👀 I’m interested in learning about softwares development
+- 👀 I’m learning about softwares development
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to my first job on Tech
 - 📫 How to reach me monteroaurea@gmail.com
