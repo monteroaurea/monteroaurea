@@ -1,4 +1,4 @@
-<h1> Hi, I’m Aurea 👋</h1> </br>
+<h1> Hi 👋</h1> </br>
 
 I study Computer Science</br>
 I’m learning about software development</br>
