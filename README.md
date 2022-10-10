@@ -2,7 +2,7 @@
 
 I'm studying Computer Science</br>
 I’m learning about .NET Development with C# </br>
-I'm also looking a job in Tech
+I'm also looking for a job in Tech
 
 <b>How to reach me:</b> </br>
 https://www.linkedin.com/in/monteroaurea/</br>
