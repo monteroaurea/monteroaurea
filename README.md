@@ -1,12 +1,12 @@
-<h1> Hi 👋</h1> </br>
+<h1> Hello there </h1> </br>
 
 I'm studying Computer Science</br>
-I’m learning about software development</br>
-I'm looking for my first job with Tech
+I’m learning about .NET Development with C# </br>
+I'm also looking a job in Tech
 
 <b>How to reach me:</b> </br>
 https://www.linkedin.com/in/monteroaurea/</br>
-monteroaurea@gmail.com
+monteroaurea@gmail.com</br>
 
 <!---
 aurea94/aurea94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
