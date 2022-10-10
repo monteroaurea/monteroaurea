@@ -1,6 +1,6 @@
 <h1> Hi 👋</h1> </br>
 
-I study Computer Science</br>
+I'm studying Computer Science</br>
 I’m learning about software development</br>
 I'm looking for my first job with Tech
 
