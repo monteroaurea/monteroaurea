@@ -1,14 +1,16 @@
-<h1> Hello there </h1> </br>
 
-I'm studying Computer Science</br>
-I’m learning about .NET Development with C# </br>
-I'm also looking for a job in Tech
+<div id="header" align= "center">
+  
+  <img src= "https://www.wallpaperbetter.com/wallpaper/473/435/638/anime-anime-girls-original-characters-blue-hair-headphones-1080P-wallpaper-middle-size.jpg" width="300"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/monteroaurea/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://twitter.com/aureamontt1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<b>How to reach me:</b> </br>
-https://www.linkedin.com/in/monteroaurea/</br>
-monteroaurea@gmail.com</br>
-
-<!---
-aurea94/aurea94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1> Hello There
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
