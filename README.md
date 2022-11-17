@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Backend Developer, from Brazil.
+<b> I am a Backend Developer, from Brazil.</b>
 
 :telescope: I’m working as a Computer Science Inteern and contributing to backend for building web applications.
 
