@@ -1,7 +1,7 @@
 
 <div id="header" align= "center">
   
-  <img src= "https://www.wallpaperbetter.com/wallpaper/473/435/638/anime-anime-girls-original-characters-blue-hair-headphones-1080P-wallpaper-middle-size.jpg" width="300"/>
+  <img src= "https://www.wallpaperbetter.com/wallpaper/473/435/638/anime-anime-girls-original-characters-blue-hair-headphones-1080P-wallpaper-middle-size.jpg" width="500"/>
  </div>
 
 <h1> hey there
