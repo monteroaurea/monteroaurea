@@ -24,7 +24,7 @@ I am a Backend Developer, from Brazil.
 
 :zap: In my free time, I read technology articles and study to improve my skills. 
 
-:mailbox: How to reach me: <a href= "monteroaurea@gmail.com"> E-mail me</a>
+:mailbox: How to reach me: <a href= "monteroaurea@gmail.com"> E-mail</a> | <a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a>
 
 </div>
 
