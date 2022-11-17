@@ -22,7 +22,7 @@ I am a Backend Developer, from Brazil.
 
 :seedling: Exploring Technical Content Writing.
 
-:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+:zap: In my free time, I read technology articles and study to improve my skills. 
 
 :mailbox: How to reach me: <a href= "monteroaurea@gmail.com"> E-mail me</a>
 
