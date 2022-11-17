@@ -4,7 +4,7 @@
   <img src= "https://www.wallpaperbetter.com/wallpaper/473/435/638/anime-anime-girls-original-characters-blue-hair-headphones-1080P-wallpaper-middle-size.jpg" width="500"/>
  </div>
 
-<h1> hey there
+<h1> hi
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
