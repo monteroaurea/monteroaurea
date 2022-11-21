@@ -2,15 +2,10 @@
 <div id="header" align= "center">
   
   <img src= "https://www.wallpaperbetter.com/wallpaper/473/435/638/anime-anime-girls-original-characters-blue-hair-headphones-1080P-wallpaper-middle-size.jpg" width="500"/>
-  <br>
-  <a href="https://www.linkedin.com/in/monteroaurea/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
-  </a>
   
  </div>
 
-<h1> hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1> hi </h1>
 
 ---
 
@@ -18,13 +13,11 @@
 
 <b> I am a Backend Developer, from Brazil.</b>
 
-:telescope: I’m working as a Computer Science Inteern and contributing to backend for building web applications.
+- I’m studying Computer Science and contributing to backend for building web applications.
 
-:seedling: Exploring Technical Content Writing.
+- In my free time, I read technology articles and study to improve my skills.
 
-:zap: In my free time, I read technology articles and study to improve my skills. 
-
-:mailbox: How to reach me: <a href= "monteroaurea@gmail.com"> E-mail</a> | <a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a>
+- How to reach me: <a href= "monteroaurea@gmail.com"> E-mail </a> | <a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a> | <a href="https://twitter.com/aureamontt1"> Twitter </a>
 
 </div>
 
