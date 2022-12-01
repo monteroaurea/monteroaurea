@@ -9,13 +9,8 @@
 
 ---
 
-## About Me :
+## <b> I am a Backend Developer, from Brazil.</b>
 
-<b> I am a Backend Developer, from Brazil.</b>
-
-- I’m studying Computer Science and contributing to backend for building web applications.
-
-- In my free time, I read technology articles and study to improve my skills.
 
 - How to reach me: <a href= "monteroaurea@gmail.com"> E-mail </a> | <a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a> | <a href="https://twitter.com/aureamontt1"> Twitter </a>
 
