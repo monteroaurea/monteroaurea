@@ -12,11 +12,12 @@
 ## <b> I am a Backend Developer, from Brazil.</b>
 
 
-- How to reach me: <a href= "monteroaurea@gmail.com"> E-mail </a> | <a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a> | <a href="https://twitter.com/aureamontt1"> Twitter </a>
-
-</div>
-
----
+### How to reach me:
+<div>
+<a href= "monteroaurea@gmail.com"> E-mail </a>
+<a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a>
+<a href="https://twitter.com/aureamontt1"> Twitter </a>
+<br>
 
 ### Languages and Tools :
 <div>
