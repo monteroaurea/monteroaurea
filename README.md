@@ -14,8 +14,8 @@
 
 ### How to reach me:
 <div>
-<a href= "monteroaurea@gmail.com"> E-mail </a>
-<a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a>
+<a href= "monteroaurea@gmail.com"> E-mail </a> <br>
+<a href="https://www.linkedin.com/in/monteroaurea/">Linkedin</a> <br>
 <a href="https://twitter.com/aureamontt1"> Twitter </a>
 <br>
 
