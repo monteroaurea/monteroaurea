@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/monteroaurea/">
      <img src="https://img.shields.io/badge/-Linkedin-grey?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/madev1111/">
+  <a href="https://www.instagram.com/aureamontt/">
   <img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/aureamontt1">
