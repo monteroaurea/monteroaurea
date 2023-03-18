@@ -5,18 +5,27 @@
   hi
 </h1>
  </div>
+ 
+<div id="whoiam" align= "center">
+<h3> 
+I am a Backend Developer, from Brazil.</b>
+</h3>
 
-## <b> I am a Backend Developer, from Brazil.</b>
+🇧🇷 I am a brazilian Backend Developer based out of São Paulo.<br>
+🔭 I code in .NET and C# Language and currently study Computer Science.<br>
+:writing_hand: You can check out my projects and codes at my github repositorys.<br>
+👩‍💼 I am open to work, actively looking for remote jobs offers.<br>
+📩 Contact me if you have any openning or sugestion.<br>
 
-- 🇧🇷 I am a brazilian Backend Developer based out of São Paulo.<br>
-- 🔭 I code in .NET and C# Language and currently study Computer Science.<br>
-- 🍡 Feel free to contact me, I will be happy of talkig about programming!<br>
-- 👩‍💼 I am open to work, actively looking for remote jobs offers.<br>
-- 📩 Let me know if you have any contact, sugestion or openning.<br>
+</div>
 
+<div id="header2" align= "center">
+<h3>
+Languages and Tools
+</h3>
+</div>
 
-### Languages and Tools :
-<div>
+<div id="tools" align= "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -31,4 +40,8 @@
 
 ---
 
-
+<div id="bye" align= "center">
+<h3>
+:space_invader:
+</h3>
+ </div>
