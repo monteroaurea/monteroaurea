@@ -10,14 +10,18 @@
 <h3> 
 I am a Backend Developer, from Brazil.</b>
 </h3>
-
 </div>
 
+<div>
+<p>
 🇧🇷 I am a brazilian Backend Developer based out of São Paulo.<br>
 🔭 I code in .NET and C# Language and currently study Computer Science.<br>
 :writing_hand: You can check out my projects and codes at my github repositorys.<br>
 👩‍💼 I am open to work, actively looking for remote jobs offers.<br>
 📩 Contact me if you have any openning or sugestion.<br>
+ </p>
+</div>
+
 
 ---
 
